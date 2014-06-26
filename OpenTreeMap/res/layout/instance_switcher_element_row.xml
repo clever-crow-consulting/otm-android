@@ -10,19 +10,15 @@
 
     <TextView
         android:id="@+id/text"
-        style="@style/instance_switcher_row_text" />
+        style="@style/general_list_row_text" />
 
     <TextView
         android:id="@+id/subtext"
-        style="@style/instance_switcher_element_row_subtext"
+        style="@style/general_list_row_subtext"
         android:layout_below="@id/text" />
 
     <ImageView
         android:id="@+id/chevron"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
-        android:layout_centerVertical="true"
-        android:layout_marginRight="20dp"
-        android:src="@drawable/ic_chevron_right" />
+        android:src="@drawable/ic_chevron_right"
+        style="@style/general_list_row_chevron" />
 </RelativeLayout>
