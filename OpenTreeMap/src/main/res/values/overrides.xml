@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="api_url">override in child app</string>
-    <string name="base_url">override in child app</string>
-    <string name="tiler_url">override in child app</string>
-    <string name="skin_code">override in child app</string>
-    <string name="access_key">override in child app</string>
-    <string name="secret_key">override in child app</string>
-    <string name="google_maps_api_key">override in child app</string>
+    <string name="api_url">http://app.tampatreemap.usf.edu/api</string>
+    <string name="base_url">http://app.tampatreemap.usf.edu</string>
+    <string name="tiler_url">http://app.tampatreemap.usf.edu</string>
+    <string name="skin_code">tampa</string>
+    <string name="access_key">rs2zGbp6Q8Gcx0cpBtgMZA</string>
+    <string name="secret_key">9r4-0njiXGWfFy34PSb8iM9vohLR2qyoCrzDhdz_41dGgCP-ooD44J9SHfh7IFgUsSUMDZlLQbxM9B03pNSECg==</string>
+    <string name="google_maps_api_key">AIzaSyDAhAGElDcpzEdERoVBv33EB9hCTFZ4O6U</string>
     <string name="max_nearby_plots">10</string>
     <string name="platform_ver_build">android-1.0-xx</string>
     <string name="rollbar_client_access_token" />
